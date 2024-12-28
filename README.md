@@ -4,7 +4,7 @@
 ![Python Versions](https://img.shields.io/pypi/pyversions/loadaudio)
 <!-- Add more badges here for build status, code coverage, etc. if applicable -->
 
-**Load Audio Like a Pro!**
+<!-- **Load Audio Like a Pro!** -->
 
 `loadaudio` is a Python library designed to effortlessly load audio from a variety of sources and convert it to your desired format. Whether you're working with local files, remote URLs, base64 encoded strings, NumPy arrays, or pydub AudioSegment objects, `loadaudio` provides a simple and consistent interface.
 
